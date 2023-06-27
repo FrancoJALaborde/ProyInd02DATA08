@@ -1,36 +1,36 @@
 <h1 align=center> HENRY’S LABS </h1>
 <br>
-<h2>PROYECTO INDIVIDUAL II DATA 08 -- Analysis of Data Dashboard <br><br>
+<h2>INDIVIDUAL PROJECT II DATA 08 -- Analysis of Data Dashboard <br><br>
 <br>
-**[Origen de los datos](https://finance.yahoo.com/)**
-<br>
-<br>
-<br>
-**Propuesta a responder**
-<br>
-"Simularemos una situación en donde una empresa que busca invertir en el mercado bursátil le solicita analizarlo en detalle. Considerando que la empresa no conoce esta área financiera, le solicita una explicación de qué ha sucedido en este mercado en los últimos años (considerando impactos positivos y negativos a partir del año 2000), recomendaciones de inversión (ya sea enfocada en empresas o rubros de éstas) y otra información complementaria que, usted como experto en datos, está en capacidad de brindar."
+**[Data origin](https://finance.yahoo.com/)**
 <br>
 <br>
 <br>
-**Archivos del repositorio:**
+**Proposal to answer**
 <br>
-*EDA: En el se recopilamos, visualizamos los datos, exportamos a csv y evaluamos ciertos factores de improtancia para descartar o mantener el activo como parte de la recomendacion final
-<br>
-*Dashboard: Visualizacion mas clara y contraponiendo activos en el periodo de tiempo seleccionado, respaldando la desicion final.
+"We will simulate a situation where a company seeking to invest in the stock market asks you to analyze it in detail. Considering that the company is not familiar with this financial area, it requests an explanation of what has happened in this market in recent years (considering positive and negative impacts from the year 2000), investment recommendations (whether focused on companies or areas of these) and other complementary information that, as a data expert, you are able to provide."
 <br>
 <br>
 <br>
-**Evaluacion:**
+**Repository files:**
 <br>
-Post pandemia observamos una respuesta, supuestamente clara del mercado bursatil, donde destacan dos sectores contemplados dentro de [S&P500](https://es.wikipedia.org/wiki/Anexo:Compa%C3%B1%C3%ADas_del_S%26P_500), el sector de consumo recreacional con su valor al alza y el sector energia con una teorica tendencia bajista, pero revisando mas profundamente los datos de las empresas TOP en ambos sectores, se puede observar una correccion a estas supuestas tendencias que solo se vieron impulsadas por los años de pandemia, tocando su techo a principios del año 2023 y corrigiendo asi, en este momento su valor en el mercado.
+*EDA: In it we collect, visualize the data, export to csv and evaluate certain important factors to discard or maintain the asset as part of the final recommendation.
 <br>
-Asi mismo acompañamos el pronostico favorable a favor del sector de energia, apoyandonos en en la informacion obtenida de organimos internacionales que regulan este sector (VER FUENTES AL FINAL DEL ARCHIVO), haciendo asi aun mas favorale el pronostico para empresas que generen energia electrica a base del carbon, consuman petroleo o gas, versus, y teniendo en cuenta el periodo a evaluar (2000 - 2023) donde se impulsa a nivel mundial el cierre de la competencia mas directa de este tipo de empresa (La energia nuclear), dejando asi el mercado de la energia, libre de todo tipo de competencia y con un pronostico mas que favorable, principalmente para las empresas observadas en el analisis.
+*Dashboard: Clearer visualization and contrasting assets in the selected period of time, supporting the final decision.
 <br>
 <br>
 <br>
-**Fuentes del analisis**<br>
+**Final evaluation:**
+<br>
+Post pandemic we observe a response, supposedly clear from the stock market, where two sectors included within stand out [S&P500](https://es.wikipedia.org/wiki/Anexo:Compa%C3%B1%C3%ADas_del_S%26P_500), the recreational consumer sector with its rising value and the energy sector with a theoretical downward trend, but reviewing the data of the TOP companies in both sectors more deeply, a correction can be observed to these supposed trends that were only driven by the years of pandemic, reaching its ceiling at the beginning of 2023 and thus correcting its market value at this time.
+<br>
+Likewise, we accompany the favorable forecast in favor of the energy sector, relying on the information obtained from international organizations that regulate this sector (SEE SOURCES AT THE END OF THE FILE), thus making the forecast even more favorable for companies that generate electricity based on of coal, consume oil or gas, versus, and taking into account the period to be evaluated (2000 - 2023) where the closure of the most direct competition of this type of company (nuclear energy) is promoted worldwide, thus leaving the energy market, free of all kinds of competition and with a more than favorable forecast, mainly for the companies observed in the analysis.
+<br>
+<br>
+<br>
+**Analysis sources**<br>
 *Informacion Financiera: (https://finance.yahoo.com/)<br>
-*ONU Agenda Energia Electrica: (https://www.un.org/sustainabledevelopment/es/energy/)<br>
+*ONU Electric Power Agenda: (https://www.un.org/sustainabledevelopment/es/energy/)<br>
 *Union Europea Encabezado Energia: (https://european-union.europa.eu/priorities-and-actions/actions-topic/energy_es)<br>
 *Foro Economico Mundial Energia: (https://es.weforum.org/agenda/future-of-energy/)<br>
 *World Nuclear Association: (https://www.world-nuclear.org/information-library.aspx)<br>
